@@ -64,4 +64,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize and modify this README to fit your project's specific requirements. Remember to update the sections with relevant information about your Ecommerce-App, such as specific technologies used, setup instructions, and any other details that would be helpful for users and contributors.
+
