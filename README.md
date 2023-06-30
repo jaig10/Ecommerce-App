@@ -11,6 +11,9 @@ Ecommerce-App is a full-stack e-commerce application developed using React, Redu
 - [Contributing](#contributing)
 - [License](#license)
 
+  ## Demo
+  https://ecommerceapp-0ar0.onrender.com/
+
 ## Features
 
 - User authentication and registration
