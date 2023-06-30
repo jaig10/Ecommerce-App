@@ -15,7 +15,7 @@ export default function Layout() {
   return (
     <ThemeProvider theme={theme}>
         <CssBaseline />
-        <Header/>
+        <Header/> 
         <main>
         <Outlet/>
         </main>

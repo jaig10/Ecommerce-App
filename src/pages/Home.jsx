@@ -6,7 +6,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { useSearchParams } from 'react-router-dom';
 import { addToCart } from '../feature/cart-slice';
 import { fetchAllProducts } from '../feature/products-slice';
-
+ 
 export default function Home() {
     const [searchParams] = useSearchParams();
     const category = searchParams.get("category");

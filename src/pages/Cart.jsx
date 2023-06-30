@@ -24,7 +24,7 @@ import { useNavigate } from 'react-router-dom'
       if(updatedQuantity < quantity){
           dispatch(removeFromCart({product}))
       } else {
-          dispatch(addToCart({product}));
+          dispatch(addToCart({product})); 
       }
    }
 
